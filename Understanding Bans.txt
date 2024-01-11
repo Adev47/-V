@@ -1,0 +1,26 @@
+ABOUT OUR SERVICES:
+
+We always use a woofer for all services, so you do not risk being banned for our camo/skin services and lobbies.
+SERVER DISCONNECTIONS:
+
+A server disconnection can lead to a temporary ban (shadow ban) of 2 weeks. This most often happens to low-level, unverified accounts, or after being reported multiple times.
+TEMPORARY BAN (SHADOW BAN):
+
+If you notice unusual spikes in your ping (e.g., from 90ms to 200ms...), can't find matches, or only end up in temporary ban (shadowban) lobbies, it means the anti-cheat has placed your account under review to determine if you are cheating or not, for a specific duration (usually 14 days). If this happens, play on a new account until the original is unbanned.
+PERMANENT BAN (HWID):
+
+If you can no longer launch your game and a ban message appears on your launcher, it means you have been permanently banned from the game. In this case, there is nothing else to do but play on another account.
+
+If you wish to play again despite a permanent ban, you will need to use a sp00fer / w00fer to avoid being automatically banned.
+
+USE A SP00FER & BLOCKER!
+
+By using a SP00FER, you cannot be banned for HWID (components).
+By using a BLOCKER, you block the main features of the anti-cheat, significantly reducing the risk of being banned.
+By using a W00FER, you will be sp00fed and also benefit from the advantages of the blocker. (woofer = sp00fer + blocker)
+AGED ACCOUNTS:
+
+Recent accounts (level 1-50) are riskier to use than high-level aged accounts. The lower your Activision account level, the higher the risk of temporary (shadowban) and permanent bans. It is always better to buy high-quality aged accounts.
+TEMPORARY BAN TESTING:
+
+Check your account here: https://support.activision.com/ban-appeal
